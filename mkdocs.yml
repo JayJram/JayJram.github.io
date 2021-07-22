@@ -1,0 +1,6 @@
+site_name: Optiva Product Documentation
+site_url: https://docs.optivajay.com/
+theme:
+  name: material
+  logo: img/oplo.png
+  favicon: img/oplo.png
